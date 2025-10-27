@@ -23,3 +23,5 @@ console.log("ADD: ", add(a, b))
 console.log("SUBSTRACT: ", subtract(a, b))
 console.log("MULTIPLY: ", multiply(a, b))
 console.log("DIVIDE: ", divide(a, b))
+
+console.log("SQUARE")
